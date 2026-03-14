@@ -102,7 +102,7 @@ Key metrics tracked:
 * Refund Rate
 * Late Delivery Percentage
 
-[![Executive Dashboard](https://drive.google.com/file/d/1lM1J0JTGAiYozDjF2Mwg5jUwyqrb84Vv/view?usp=sharing)
+[![Executive Dashboard](https://github.com/lakshsaronja014/Campaign-profitability-analysis/blob/db7f8c573cf447ad1b521c122d2c136372afbd34/Executive%20Dashboard.png)
 
 ---
 
@@ -116,7 +116,7 @@ Key insights include:
 * Category-level return behavior
 * Profitability comparison between campaign and normal months
 
-![Campaign Impact](powerbi/dashboard_images/campaign_impact.png)
+![Campaign Impact](https://github.com/lakshsaronja014/Campaign-profitability-analysis/blob/db7f8c573cf447ad1b521c122d2c136372afbd34/Campaign%20Impact.png)
 
 ---
 
@@ -130,7 +130,7 @@ Metrics analyzed:
 * Warehouse congestion
 * Operational bottlenecks during demand spikes
 
-![Operations Dashboard](powerbi/dashboard_images/operations_analysis.png)
+![Operations Dashboard](https://github.com/lakshsaronja014/Campaign-profitability-analysis/blob/db7f8c573cf447ad1b521c122d2c136372afbd34/Operations%20Impact.png)
 
 ---
 
@@ -177,6 +177,8 @@ Avoid deep discounts on historically high-return product categories.
 ### Warehouse Load Balancing
 
 Distribute campaign inventory across multiple fulfillment centers.
+
+![Executive Recommendations](https://github.com/lakshsaronja014/Campaign-profitability-analysis/blob/db7f8c573cf447ad1b521c122d2c136372afbd34/Recommendations.png)
 
 ---
 
